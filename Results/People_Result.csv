@@ -1,0 +1,297 @@
+id,first_name,last_name,email,phone,city,country,devices
+1,Jamie,Bright,Jamie.Bright@example.com,533-849-3913,Montreal, Canada,['Android']
+3,Yusra,Fletcher,Yusra.Fletcher@example.com,385-702-8874,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+5,Beatrix,Everett,Beatrix.Everett@example.com,194-640-2758,Paris, France,['Android']
+9,Asa,Vazquez,Asa.Vazquez@example.com,504-421-4485,Toronto, Canada,['Android']
+19,Carmen,Burton,Carmen.Burton@example.com,527-368-7429,Toronto, Canada,"['Android', 'Desktop']"
+20,Donald,Stone,Donald.Stone@example.com,730-260-4630,London, United Kingdom,"['Android', 'Desktop']"
+24,Isabelle,Lopez,Isabelle.Lopez@example.com,981-878-3234,Paris, France,"['Android', 'Iphone']"
+26,Julius,Garrett,Julius.Garrett@example.com,866-664-7969,Barcelona, Spain,"['Android', 'Desktop', 'Iphone']"
+29,Dafydd,Preston,Dafydd.Preston@example.com,368-987-3267,Barcelona, Spain,"['Android', 'Desktop', 'Iphone']"
+30,Stephanie,Rice,Stephanie.Rice@example.com,830-901-9870,Montreal, Canada,['Android']
+31,Bradley,Butler,Bradley.Butler@example.com,937-172-2269,Montreal, Canada,['Iphone']
+33,Louise,Daniel,Louise.Daniel@example.com,917-348-4728,Barcelona, Spain,"['Android', 'Iphone']"
+34,Livia,Howe,Livia.Howe@example.com,868-828-4315,Toronto, Canada,['Iphone']
+37,Lili,Schroeder,Lili.Schroeder@example.com,640-348-2128,Toronto, Canada,"['Android', 'Iphone']"
+38,Jeremiah,Martin,Jeremiah.Martin@example.com,277-350-5557,London, United Kingdom,['Android']
+39,Keyaan,Holland,Keyaan.Holland@example.com,845-797-2979,Barcelona, Spain,"['Android', 'Iphone']"
+41,Cody,Riley,Cody.Riley@example.com,872-906-9681,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+42,Tomas,Griffith,Tomas.Griffith@example.com,492-337-4468,London, United Kingdom,['Iphone']
+52,Amaan,Rangel,Amaan.Rangel@example.com,837-435-2302,Montreal, Canada,"['Android', 'Iphone']"
+57,Billie,Price,Billie.Price@example.com,917-866-8131,London, United Kingdom,['Desktop']
+59,Phoebe,Weiss,Phoebe.Weiss@example.com,299-560-9666,London, United Kingdom,"['Android', 'Desktop']"
+65,Aled,Silva,Aled.Silva@example.com,612-360-5367,Toronto, Canada,['Iphone']
+68,Saif,Green,Saif.Green@example.com,978-659-7286,Paris, France,['Iphone']
+70,Valerie,Oneal,Valerie.Oneal@example.com,651-335-6190,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+71,Ilyas,Dunlap,Ilyas.Dunlap@example.com,491-981-1293,London, United Kingdom,['Iphone']
+73,Kara,Stewart,Kara.Stewart@example.com,794-314-2500,Paris, France,"['Android', 'Iphone']"
+74,Myrtle,Doyle,Myrtle.Doyle@example.com,525-796-7991,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+78,Angela,Mcmillan,Angela.Mcmillan@example.com,868-463-1850,London, United Kingdom,['Android']
+91,Amir,Clark,Amir.Clark@example.com,924-287-4068,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+100,Usman,Swanson,Usman.Swanson@example.com,431-103-9132,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+103,Caspar,Hudson,Caspar.Hudson@example.com,830-584-4874,Toronto, Canada,['Iphone']
+108,Mohsin,Tucker,Mohsin.Tucker@example.com,174-389-8757,Toronto, Canada,['Desktop']
+114,Laurie,Melendez,Laurie.Melendez@example.com,488-382-1416,Toronto, Canada,"['Desktop', 'Iphone']"
+115,Tanya,Watson,Tanya.Watson@example.com,432-515-4933,Montreal, Canada,"['Android', 'Iphone']"
+117,Priya,Moore,Priya.Moore@example.com,455-692-4736,Paris, France,['Desktop']
+119,Arron,Peck,Arron.Peck@example.com,226-392-7970,Paris, France,"['Android', 'Iphone']"
+120,Justin,Rowland,Justin.Rowland@example.com,665-725-2354,Paris, France,"['Android', 'Iphone']"
+121,Jasper,Brandt,Jasper.Brandt@example.com,527-756-7352,London, United Kingdom,['Desktop']
+122,Teresa,Mccarty,Teresa.Mccarty@example.com,223-114-4003,Toronto, Canada,"['Desktop', 'Iphone']"
+123,Finnian,Fisher,Finnian.Fisher@example.com,382-879-9946,Toronto, Canada,"['Android', 'Iphone']"
+125,Nora,Ball,Nora.Ball@example.com,921-528-9551,Barcelona, Spain,['Desktop']
+127,Zoya,Giles,Zoya.Giles@example.com,301-750-7631,Toronto, Canada,"['Android', 'Iphone']"
+129,Alejandro,Duncan,Alejandro.Duncan@example.com,487-150-9471,London, United Kingdom,['Desktop']
+130,Zohaib,Hartman,Zohaib.Hartman@example.com,928-400-6426,Montreal, Canada,['Desktop']
+135,Bertie,Ward,Bertie.Ward@example.com,971-922-8663,Montreal, Canada,"['Android', 'Desktop']"
+139,Kamran,Wilcox,Kamran.Wilcox@example.com,476-365-7838,London, United Kingdom,"['Android', 'Desktop']"
+141,Adriana,Stafford,Adriana.Stafford@example.com,473-741-6496,Montreal, Canada,['Iphone']
+142,Everly,Fuentes,Everly.Fuentes@example.com,398-369-8927,Barcelona, Spain,['Android']
+147,Eleanor,Mcintosh,Eleanor.Mcintosh@example.com,153-538-3431,Toronto, Canada,['Android']
+149,Abdirahman,Mullen,Abdirahman.Mullen@example.com,669-442-8257,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+152,Matteo,Moon,Matteo.Moon@example.com,830-546-5378,London, United Kingdom,"['Android', 'Iphone']"
+153,Blaine,Boyer,Blaine.Boyer@example.com,411-997-1636,London, United Kingdom,['Desktop']
+156,Alia,Brooks,Alia.Brooks@example.com,327-292-8469,Montreal, Canada,"['Android', 'Desktop']"
+167,Kurtis,Marks,Kurtis.Marks@example.com,690-396-3965,Montreal, Canada,['Desktop']
+173,Enya,Hernandez,Enya.Hernandez@example.com,406-397-1498,Barcelona, Spain,['Iphone']
+176,Melvin,Flores,Melvin.Flores@example.com,708-692-8746,London, United Kingdom,"['Desktop', 'Iphone']"
+180,Dhruv,Villarreal,Dhruv.Villarreal@example.com,931-559-3083,London, United Kingdom,"['Android', 'Desktop']"
+188,Ridwan,Houston,Ridwan.Houston@example.com,530-308-5425,London, United Kingdom,['Desktop']
+194,Fynn,Graham,Fynn.Graham@example.com,763-842-3292,Toronto, Canada,"['Android', 'Iphone']"
+198,Zakir,Russell,Zakir.Russell@example.com,599-588-9264,Toronto, Canada,"['Desktop', 'Iphone']"
+199,Asa,Haines,Asa.Haines@example.com,327-464-5734,London, United Kingdom,"['Android', 'Iphone']"
+200,Eesa,Buchanan,Eesa.Buchanan@example.com,533-397-5445,London, United Kingdom,"['Android', 'Iphone']"
+203,Lili,Patel,Lili.Patel@example.com,823-509-3052,Montreal, Canada,"['Android', 'Desktop']"
+204,Philippa,Webster,Philippa.Webster@example.com,407-892-7705,Toronto, Canada,['Android']
+208,Jessie,Greer,Jessie.Greer@example.com,950-317-1709,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+213,Kyran,Wyatt,Kyran.Wyatt@example.com,778-841-9881,Montreal, Canada,"['Android', 'Iphone']"
+214,Eugene,Taylor,Eugene.Taylor@example.com,712-926-3402,Toronto, Canada,['Iphone']
+218,Tony,Shepard,Tony.Shepard@example.com,416-772-8288,Barcelona, Spain,['Iphone']
+219,Sinead,Horne,Sinead.Horne@example.com,340-355-9098,Toronto, Canada,"['Android', 'Desktop']"
+222,Sonia,Lowe,Sonia.Lowe@example.com,418-550-4001,Paris, France,['Android']
+226,Morgan,Hardy,Morgan.Hardy@example.com,974-761-7628,London, United Kingdom,"['Desktop', 'Iphone']"
+228,Ned,Rowland,Ned.Rowland@example.com,400-103-9062,Paris, France,['Iphone']
+229,Kate,Cline,Kate.Cline@example.com,927-741-2027,Toronto, Canada,"['Android', 'Desktop']"
+231,Darcy,Wall,Darcy.Wall@example.com,109-398-3560,Montreal, Canada,['Desktop']
+232,Aisha,Winters,Aisha.Winters@example.com,280-831-1664,Toronto, Canada,['Desktop']
+239,Edward,Ayala,Edward.Ayala@example.com,416-337-3343,Montreal, Canada,"['Android', 'Desktop']"
+243,Brogan,Fitzgerald,Brogan.Fitzgerald@example.com,955-732-8107,Montreal, Canada,"['Android', 'Iphone']"
+244,Taylor,Ramos,Taylor.Ramos@example.com,833-282-1248,Toronto, Canada,"['Android', 'Desktop']"
+245,Elsie,Cuevas,Elsie.Cuevas@example.com,186-536-6820,Montreal, Canada,['Iphone']
+246,Zara,Washington,Zara.Washington@example.com,679-367-1926,London, United Kingdom,"['Desktop', 'Iphone']"
+248,Bethan,Franco,Bethan.Franco@example.com,317-895-5803,Toronto, Canada,['Android']
+253,Oskar,Mccarty,Oskar.Mccarty@example.com,582-269-7396,London, United Kingdom,"['Desktop', 'Iphone']"
+260,Darcey,Robles,Darcey.Robles@example.com,790-759-5249,London, United Kingdom,['Iphone']
+261,Dulcie,Melendez,Dulcie.Melendez@example.com,659-843-5422,Barcelona, Spain,"['Android', 'Desktop']"
+262,Everly,Cortez,Everly.Cortez@example.com,954-995-1806,Toronto, Canada,['Android']
+263,Tommy,Farmer,Tommy.Farmer@example.com,999-431-4584,Toronto, Canada,['Android']
+264,Maximillian,Atkins,Maximillian.Atkins@example.com,421-834-8740,Toronto, Canada,"['Android', 'Iphone']"
+269,Yusuf,Salazar,Yusuf.Salazar@example.com,311-351-7403,Toronto, Canada,['Android']
+271,Princess,Schneider,Princess.Schneider@example.com,683-604-6287,Paris, France,"['Android', 'Desktop']"
+274,Bronte,Riley,Bronte.Riley@example.com,786-291-8203,Toronto, Canada,['Iphone']
+277,Fay,Lucas,Fay.Lucas@example.com,436-818-1915,Montreal, Canada,"['Android', 'Iphone']"
+281,Rosa,Stone,Rosa.Stone@example.com,922-216-4141,Paris, France,['Iphone']
+285,Lorna,Levy,Lorna.Levy@example.com,809-114-1988,Toronto, Canada,['Iphone']
+287,Jan,Daniels,Jan.Daniels@example.com,305-449-8274,Montreal, Canada,"['Android', 'Desktop']"
+290,Brenda,Ingram,Brenda.Ingram@example.com,919-358-6885,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+292,Anya,Bray,Anya.Bray@example.com,396-900-5179,Toronto, Canada,['Iphone']
+303,Nikita,Marquez,Nikita.Marquez@example.com,492-815-1793,Montreal, Canada,['Android']
+309,Barnaby,Payne,Barnaby.Payne@example.com,140-296-7511,London, United Kingdom,['Android']
+317,Bessie,Cuevas,Bessie.Cuevas@example.com,629-379-6872,Toronto, Canada,"['Android', 'Iphone']"
+318,Mario,Luna,Mario.Luna@example.com,547-624-3479,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+323,Seren,Rocha,Seren.Rocha@example.com,880-236-4632,Toronto, Canada,['Iphone']
+324,Thea,Hamilton,Thea.Hamilton@example.com,868-547-6826,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+325,Matilda,Griffin,Matilda.Griffin@example.com,176-758-4552,Toronto, Canada,"['Android', 'Iphone']"
+327,Oliver,Sanford,Oliver.Sanford@example.com,628-646-1375,Toronto, Canada,"['Android', 'Iphone']"
+330,Abubakar,Shaffer,Abubakar.Shaffer@example.com,404-849-9394,Barcelona, Spain,['Android']
+334,Elisabeth,Tran,Elisabeth.Tran@example.com,363-441-2226,London, United Kingdom,"['Android', 'Desktop']"
+336,Katrina,Foster,Katrina.Foster@example.com,497-544-5065,London, United Kingdom,"['Android', 'Iphone']"
+338,Patricia,John,Patricia.John@example.com,338-345-6084,Barcelona, Spain,['Desktop']
+339,Sahil,Lyons,Sahil.Lyons@example.com,494-702-9881,Montreal, Canada,"['Android', 'Desktop']"
+344,Randy,Edwards,Randy.Edwards@example.com,935-107-2953,Barcelona, Spain,['Iphone']
+346,Caiden,Kaufman,Caiden.Kaufman@example.com,805-349-3127,Montreal, Canada,['Desktop']
+353,Jennie,Monroe,Jennie.Monroe@example.com,613-385-2077,Montreal, Canada,['Desktop']
+355,Dawid,Lozano,Dawid.Lozano@example.com,410-788-9917,Toronto, Canada,['Iphone']
+356,Romeo,Martin,Romeo.Martin@example.com,834-460-4855,Toronto, Canada,"['Desktop', 'Iphone']"
+358,Sadie,Hammond,Sadie.Hammond@example.com,799-609-4421,Barcelona, Spain,"['Android', 'Iphone']"
+360,Judy,Clayton,Judy.Clayton@example.com,757-533-4647,Paris, France,"['Android', 'Iphone']"
+365,Martina,Moran,Martina.Moran@example.com,641-323-9929,Toronto, Canada,['Desktop']
+369,Reggie,Strong,Reggie.Strong@example.com,459-645-8476,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+379,Leanne,Cordova,Leanne.Cordova@example.com,514-225-7453,Paris, France,['Desktop']
+380,James,Warner,James.Warner@example.com,839-312-5829,Toronto, Canada,['Iphone']
+382,Zachery,Snow,Zachery.Snow@example.com,354-295-2894,Toronto, Canada,['Iphone']
+383,Owen,Michael,Owen.Michael@example.com,178-910-8863,Toronto, Canada,['Iphone']
+389,Levi,Hoffman,Levi.Hoffman@example.com,442-352-9243,London, United Kingdom,"['Android', 'Iphone']"
+390,Camilla,Wells,Camilla.Wells@example.com,149-482-9546,London, United Kingdom,"['Android', 'Desktop']"
+392,Kyle,Joseph,Kyle.Joseph@example.com,499-600-6164,Toronto, Canada,"['Android', 'Desktop']"
+393,Timothy,Jacobs,Timothy.Jacobs@example.com,105-356-5519,Barcelona, Spain,"['Android', 'Desktop']"
+396,Penny,Hanson,Penny.Hanson@example.com,853-297-6593,Toronto, Canada,['Desktop']
+398,Myrtle,Lewis,Myrtle.Lewis@example.com,727-289-2785,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+403,Tariq,Holman,Tariq.Holman@example.com,734-647-8275,Paris, France,"['Desktop', 'Iphone']"
+405,Cecily,Blaese,Cecily.Blaese@example.com,234-446-2115,Toronto, Canada,"['Desktop', 'Iphone']"
+406,Gideon,Perez,Gideon.Perez@example.com,135-944-5781,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+407,Trinity,Mora,Trinity.Mora@example.com,406-645-2610,Toronto, Canada,['Android']
+411,Candice,Hooper,Candice.Hooper@example.com,382-506-1338,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+412,Omar,Clements,Omar.Clements@example.com,998-234-1057,Barcelona, Spain,['Desktop']
+420,Pablo,Benton,Pablo.Benton@example.com,918-474-3062,London, United Kingdom,['Android']
+426,Bill,Chen,Bill.Chen@example.com,264-895-1912,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+427,Lola,Vaughan,Lola.Vaughan@example.com,722-400-6707,Paris, France,['Desktop']
+428,Abi,Montgomery,Abi.Montgomery@example.com,904-933-1987,Montreal, Canada,['Desktop']
+429,Mike,Hurst,Mike.Hurst@example.com,488-247-6930,Montreal, Canada,"['Desktop', 'Iphone']"
+433,Angelo,Manning,Angelo.Manning@example.com,182-351-6749,Toronto, Canada,['Android']
+439,Leona,Daugherty,Leona.Daugherty@example.com,815-288-7354,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+442,Lenny,Hardy,Lenny.Hardy@example.com,618-571-1851,Toronto, Canada,"['Desktop', 'Iphone']"
+446,Julius,Marquez,Julius.Marquez@example.com,189-235-8167,Montreal, Canada,"['Desktop', 'Iphone']"
+448,Amna,Garner,Amna.Garner@example.com,157-518-8037,Paris, France,"['Android', 'Desktop', 'Iphone']"
+449,Raja,Hull,Raja.Hull@example.com,209-644-4005,Toronto, Canada,"['Android', 'Desktop']"
+450,Rio,Suarez,Rio.Suarez@example.com,304-182-8487,Paris, France,"['Desktop', 'Iphone']"
+456,Larry,Clay,Larry.Clay@example.com,151-494-2927,Montreal, Canada,['Iphone']
+465,Karen,Robles,Karen.Robles@example.com,144-367-7871,Barcelona, Spain,['Desktop']
+466,Charis,Cotton,Charis.Cotton@example.com,598-771-1224,Toronto, Canada,['Desktop']
+468,Cassie,Gaines,Cassie.Gaines@example.com,496-692-2413,Paris, France,"['Desktop', 'Iphone']"
+470,Kyla,Brennan,Kyla.Brennan@example.com,440-863-6538,Toronto, Canada,['Desktop']
+473,Hayden,Lucas,Hayden.Lucas@example.com,527-308-6637,Montreal, Canada,"['Android', 'Desktop']"
+474,Willard,Gray,Willard.Gray@example.com,894-914-4304,Paris, France,"['Android', 'Desktop', 'Iphone']"
+475,Sophie,Lindsey,Sophie.Lindsey@example.com,392-864-7558,Paris, France,['Desktop']
+476,Sabrina,Becker,Sabrina.Becker@example.com,895-364-8107,Toronto, Canada,['Android']
+477,Dillon,Cisneros,Dillon.Cisneros@example.com,304-384-6230,Paris, France,"['Android', 'Desktop', 'Iphone']"
+479,Terence,Rosales,Terence.Rosales@example.com,298-641-6696,Toronto, Canada,"['Desktop', 'Iphone']"
+482,Ahmad,Patrick,Ahmad.Patrick@example.com,875-486-1626,Toronto, Canada,"['Android', 'Iphone']"
+483,Christine,Davenport,Christine.Davenport@example.com,168-853-2168,Montreal, Canada,['Iphone']
+484,Lowri,Brady,Lowri.Brady@example.com,116-274-4785,Toronto, Canada,"['Android', 'Iphone']"
+485,Ashley,Cain,Ashley.Cain@example.com,679-244-6655,London, United Kingdom,['Desktop']
+488,Jenson,Carlson,Jenson.Carlson@example.com,282-249-3068,Paris, France,"['Android', 'Desktop', 'Iphone']"
+496,Micheal,Maldonado,Micheal.Maldonado@example.com,895-850-8289,London, United Kingdom,['Desktop']
+500,Alexandra,Young,Alexandra.Young@example.com,425-414-7823,Barcelona, Spain,"['Android', 'Desktop']"
+502,Imran,Page,Imran.Page@example.com,203-209-8114,Montreal, Canada,"['Desktop', 'Iphone']"
+503,Jim,Moses,Jim.Moses@example.com,560-446-1279,London, United Kingdom,['Iphone']
+505,Bessie,Conley,Bessie.Conley@example.com,128-912-7282,London, United Kingdom,['Iphone']
+523,Ameera,Kirby,Ameera.Kirby@example.com,611-776-9890,London, United Kingdom,"['Android', 'Desktop']"
+536,Orla,Monroe,Orla.Monroe@example.com,200-722-3778,Toronto, Canada,"['Desktop', 'Iphone']"
+537,Bronwyn,Hanna,Bronwyn.Hanna@example.com,763-469-4049,Toronto, Canada,['Android']
+539,Ruth,Stone,Ruth.Stone@example.com,429-930-9178,Montreal, Canada,"['Android', 'Iphone']"
+541,Elysia,Schaefer,Elysia.Schaefer@example.com,264-321-9679,Montreal, Canada,"['Android', 'Desktop']"
+543,Esme,Krueger,Esme.Krueger@example.com,173-138-2227,Toronto, Canada,"['Android', 'Iphone']"
+550,Prince,Sharp,Prince.Sharp@example.com,886-278-8764,Montreal, Canada,"['Desktop', 'Iphone']"
+551,Donovan,Evans,Donovan.Evans@example.com,729-134-2962,Montreal, Canada,['Iphone']
+552,Daniel,Reid,Daniel.Reid@example.com,753-936-1634,Paris, France,['Android']
+559,Cecilia,Edwards,Cecilia.Edwards@example.com,941-963-8256,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+567,Macy,King,Macy.King@example.com,475-826-7209,Montreal, Canada,['Android']
+574,Kevin,Sherman,Kevin.Sherman@example.com,185-617-6120,Barcelona, Spain,['Iphone']
+578,Demi,Callahan,Demi.Callahan@example.com,713-176-8275,Toronto, Canada,['Android']
+579,Sufyaan,Castillo,Sufyaan.Castillo@example.com,412-479-8766,Montreal, Canada,"['Android', 'Desktop']"
+580,Aayan,Donovan,Aayan.Donovan@example.com,476-401-9860,Paris, France,"['Android', 'Desktop']"
+585,Sufyan,Guzman,Sufyan.Guzman@example.com,125-583-6823,Montreal, Canada,"['Desktop', 'Iphone']"
+586,Casey,Finley,Casey.Finley@example.com,306-893-4689,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+591,Annalise,Stephens,Annalise.Stephens@example.com,853-224-1381,Toronto, Canada,"['Desktop', 'Iphone']"
+592,Jamil,Shepherd,Jamil.Shepherd@example.com,298-276-5058,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+593,Danyal,Lang,Danyal.Lang@example.com,629-875-4423,Toronto, Canada,"['Desktop', 'Iphone']"
+594,Barry,Reilly,Barry.Reilly@example.com,117-863-9669,Montreal, Canada,['Desktop']
+599,Astrid,Delgado,Astrid.Delgado@example.com,641-317-3741,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+606,Bertha,Walsh,Bertha.Walsh@example.com,129-506-2067,London, United Kingdom,"['Android', 'Iphone']"
+608,Rishi,Barron,Rishi.Barron@example.com,331-128-4346,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+609,Taylor,Leon,Taylor.Leon@example.com,857-418-9149,Paris, France,['Android']
+612,Rabia,Parsons,Rabia.Parsons@example.com,244-470-8381,Montreal, Canada,['Android']
+613,Larissa,Perez,Larissa.Perez@example.com,742-168-6071,London, United Kingdom,"['Android', 'Desktop']"
+614,Ibrahim,Robertson,Ibrahim.Robertson@example.com,603-299-3596,Barcelona, Spain,"['Android', 'Desktop', 'Iphone']"
+620,Neo,Lara,Neo.Lara@example.com,276-319-4768,Toronto, Canada,"['Android', 'Iphone']"
+625,Diane,Kelly,Diane.Kelly@example.com,219-449-5089,Montreal, Canada,"['Android', 'Iphone']"
+628,Nancy,Stuart,Nancy.Stuart@example.com,301-686-1705,Paris, France,['Iphone']
+635,Hazel,Yoder,Hazel.Yoder@example.com,839-203-3903,London, United Kingdom,['Android']
+636,Amber,Gonzalez,Amber.Gonzalez@example.com,884-628-1984,London, United Kingdom,['Desktop']
+641,Kacie,Morse,Kacie.Morse@example.com,108-917-7237,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+642,Seth,Walter,Seth.Walter@example.com,988-932-7592,London, United Kingdom,['Iphone']
+643,Lauren,Ashley,Lauren.Ashley@example.com,564-133-8260,London, United Kingdom,"['Desktop', 'Iphone']"
+645,Gary,Richards,Gary.Richards@example.com,970-902-7934,Toronto, Canada,"['Android', 'Iphone']"
+649,Zaynah,Wong,Zaynah.Wong@example.com,597-835-8978,Paris, France,"['Android', 'Iphone']"
+650,Cormac,Greer,Cormac.Greer@example.com,722-120-7628,Paris, France,"['Desktop', 'Iphone']"
+661,Vera,Walker,Vera.Walker@example.com,516-811-2158,London, United Kingdom,"['Desktop', 'Iphone']"
+664,Zara,Oconnell,Zara.Oconnell@example.com,543-537-6044,Toronto, Canada,['Android']
+669,Abdirahman,Marsh,Abdirahman.Marsh@example.com,653-601-4374,Toronto, Canada,['Iphone']
+681,Lucas,Burke,Lucas.Burke@example.com,321-512-2703,Toronto, Canada,"['Desktop', 'Iphone']"
+687,Thea,Suarez,Thea.Suarez@example.com,647-211-7337,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+689,Kayla,Jones,Kayla.Jones@example.com,579-756-1305,London, United Kingdom,"['Android', 'Iphone']"
+691,Brett,Landry,Brett.Landry@example.com,213-171-7560,Barcelona, Spain,['Iphone']
+695,Xander,Levine,Xander.Levine@example.com,790-969-1579,Toronto, Canada,"['Desktop', 'Iphone']"
+703,Wade,Hancock,Wade.Hancock@example.com,245-455-9119,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+704,Nicholas,Thomson,Nicholas.Thomson@example.com,936-615-3052,Toronto, Canada,['Iphone']
+707,Muhammad,Henry,Muhammad.Henry@example.com,298-612-6847,Paris, France,"['Android', 'Desktop', 'Iphone']"
+712,Bronte,Mendoza,Bronte.Mendoza@example.com,323-783-6615,Toronto, Canada,"['Android', 'Iphone']"
+714,Isla,Barber,Isla.Barber@example.com,860-505-2643,Toronto, Canada,['Iphone']
+715,Oliver,Garner,Oliver.Garner@example.com,937-976-2511,Paris, France,"['Desktop', 'Iphone']"
+716,Barnaby,Wagner,Barnaby.Wagner@example.com,974-500-4168,Montreal, Canada,['Desktop']
+721,Hannah,Roman,Hannah.Roman@example.com,331-750-4621,London, United Kingdom,['Iphone']
+723,Yash,Mcleod,Yash.Mcleod@example.com,270-525-3291,London, United Kingdom,['Android']
+724,Mae,Barry,Mae.Barry@example.com,501-577-5306,London, United Kingdom,['Iphone']
+726,Aya,Weeks,Aya.Weeks@example.com,466-888-7144,Toronto, Canada,"['Android', 'Iphone']"
+727,Dawn,Cisneros,Dawn.Cisneros@example.com,375-337-2745,Toronto, Canada,['Desktop']
+729,Abigail,Medina,Abigail.Medina@example.com,857-602-1192,London, United Kingdom,"['Android', 'Desktop']"
+730,Rhodri,Haley,Rhodri.Haley@example.com,574-869-4715,London, United Kingdom,['Iphone']
+736,Chantelle,Holt,Chantelle.Holt@example.com,256-585-1002,Paris, France,"['Android', 'Desktop']"
+738,Gertrude,Mcgrath,Gertrude.Mcgrath@example.com,364-150-1035,Toronto, Canada,"['Android', 'Iphone']"
+741,Millicent,Solomon,Millicent.Solomon@example.com,597-434-8108,Paris, France,"['Desktop', 'Iphone']"
+754,Adem,Kerr,Adem.Kerr@example.com,219-873-6077,Toronto, Canada,['Iphone']
+757,Bill,Andersen,Bill.Andersen@example.com,962-770-1270,Toronto, Canada,"['Android', 'Iphone']"
+759,Martina,Steele,Martina.Steele@example.com,349-841-5113,Paris, France,['Desktop']
+763,Huda,Crane,Huda.Crane@example.com,243-321-6881,Toronto, Canada,"['Android', 'Desktop']"
+766,Sasha,Berger,Sasha.Berger@example.com,492-295-4570,London, United Kingdom,['Android']
+768,Caleb,Obrien,Caleb.Obrien@example.com,223-387-1014,Toronto, Canada,"['Android', 'Iphone']"
+779,Krish,Hutchinson,Krish.Hutchinson@example.com,405-788-7051,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+782,Paula,West,Paula.West@example.com,345-217-2266,London, United Kingdom,['Iphone']
+784,Tiana,Decker,Tiana.Decker@example.com,255-136-3687,London, United Kingdom,"['Desktop', 'Iphone']"
+785,Kara,Shelton,Kara.Shelton@example.com,837-651-6819,Paris, France,"['Android', 'Desktop', 'Iphone']"
+788,Ted,Eaton,Ted.Eaton@example.com,534-915-3617,Paris, France,['Desktop']
+791,Aoife,Davidson,Aoife.Davidson@example.com,628-333-9139,London, United Kingdom,['Android']
+797,Lilian,Strickland,Lilian.Strickland@example.com,925-438-1993,Toronto, Canada,"['Android', 'Desktop']"
+798,Brenda,Deleon,Brenda.Deleon@example.com,997-981-2043,Paris, France,['Iphone']
+800,Olivier,Thornton,Olivier.Thornton@example.com,401-494-6634,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+804,Amin,Petersen,Amin.Petersen@example.com,680-177-1233,London, United Kingdom,['Desktop']
+806,Miriam,Stuart,Miriam.Stuart@example.com,846-333-2100,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+809,Abdullahi,Carson,Abdullahi.Carson@example.com,632-547-8327,Toronto, Canada,"['Android', 'Desktop', 'Iphone']"
+816,Albie,Larson,Albie.Larson@example.com,252-910-3152,Barcelona, Spain,"['Android', 'Iphone']"
+818,Alexander,Reid,Alexander.Reid@example.com,842-314-3728,Montreal, Canada,"['Desktop', 'Iphone']"
+821,Riley,Fletcher,Riley.Fletcher@example.com,522-750-5985,London, United Kingdom,['Android']
+825,Chiara,Ho,Chiara.Ho@example.com,279-331-5254,Montreal, Canada,['Iphone']
+842,Nancy,Blair,Nancy.Blair@example.com,434-174-7916,Toronto, Canada,"['Desktop', 'Iphone']"
+843,Tiffany,Griffith,Tiffany.Griffith@example.com,201-302-5165,Paris, France,['Android']
+858,Simon,Santiago,Simon.Santiago@example.com,471-290-4198,Paris, France,"['Android', 'Desktop']"
+859,Sameer,Watkins,Sameer.Watkins@example.com,982-313-9358,Montreal, Canada,['Desktop']
+860,Anton,Hartman,Anton.Hartman@example.com,708-986-9234,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+863,Mya,Delgado,Mya.Delgado@example.com,760-931-9269,London, United Kingdom,['Iphone']
+869,Bibi,Weaver,Bibi.Weaver@example.com,956-787-2725,Paris, France,"['Android', 'Iphone']"
+872,Tomasz,Baker,Tomasz.Baker@example.com,778-642-7614,Barcelona, Spain,"['Android', 'Desktop']"
+874,Alasdair,Mckinney,Alasdair.Mckinney@example.com,608-300-8331,Montreal, Canada,"['Android', 'Desktop']"
+876,Serena,Lewis,Serena.Lewis@example.com,730-187-7131,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+891,Cordelia,Serrano,Cordelia.Serrano@example.com,950-319-1013,London, United Kingdom,"['Android', 'Desktop']"
+892,Sydney,Pratt,Sydney.Pratt@example.com,297-838-1084,Toronto, Canada,"['Desktop', 'Iphone']"
+893,Benjamin,Riddle,Benjamin.Riddle@example.com,835-645-8652,Toronto, Canada,"['Android', 'Desktop']"
+898,Alana,Koch,Alana.Koch@example.com,576-828-7913,Barcelona, Spain,"['Desktop', 'Iphone']"
+904,Martin,Perry,Martin.Perry@example.com,586-420-6418,Paris, France,"['Android', 'Iphone']"
+905,Cory,Case,Cory.Case@example.com,406-161-3681,London, United Kingdom,['Android']
+906,Astrid,Miles,Astrid.Miles@example.com,473-411-8478,Paris, France,"['Desktop', 'Iphone']"
+909,Tyler,Vasquez,Tyler.Vasquez@example.com,899-668-7177,London, United Kingdom,['Iphone']
+917,Carol,Russo,Carol.Russo@example.com,192-156-9508,Toronto, Canada,"['Android', 'Desktop']"
+918,William,Franco,William.Franco@example.com,196-468-3312,Toronto, Canada,"['Android', 'Iphone']"
+921,Hollie,Escobar,Hollie.Escobar@example.com,978-312-6279,London, United Kingdom,"['Android', 'Desktop', 'Iphone']"
+922,Luisa,Haley,Luisa.Haley@example.com,916-879-3164,Barcelona, Spain,"['Desktop', 'Iphone']"
+923,Russell,Long,Russell.Long@example.com,399-959-7203,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+946,Lacie,Mayer,Lacie.Mayer@example.com,412-562-8215,Toronto, Canada,"['Android', 'Iphone']"
+949,Sufyaan,Villanueva,Sufyaan.Villanueva@example.com,882-282-1419,Toronto, Canada,['Android']
+952,Humaira,Quinn,Humaira.Quinn@example.com,623-887-1255,London, United Kingdom,['Desktop']
+953,Zaynab,Davila,Zaynab.Davila@example.com,767-906-5124,Toronto, Canada,['Iphone']
+962,Isobella,Gilbert,Isobella.Gilbert@example.com,717-961-9368,Barcelona, Spain,"['Android', 'Desktop']"
+967,Emilio,Stevenson,Emilio.Stevenson@example.com,293-399-2353,Toronto, Canada,['Android']
+969,Layla,Roth,Layla.Roth@example.com,812-207-8855,Montreal, Canada,"['Android', 'Iphone']"
+975,Zachary,Rubio,Zachary.Rubio@example.com,971-477-1542,Montreal, Canada,"['Android', 'Desktop', 'Iphone']"
+977,Anita,Skinner,Anita.Skinner@example.com,885-134-1740,Barcelona, Spain,"['Android', 'Iphone']"
+980,Kacie,Lester,Kacie.Lester@example.com,673-651-6332,Toronto, Canada,['Android']
+982,Myles,Sharpe,Myles.Sharpe@example.com,420-682-4722,Toronto, Canada,['Iphone']
+983,Nicola,Davenport,Nicola.Davenport@example.com,335-679-5225,Toronto, Canada,"['Desktop', 'Iphone']"
+985,Lloyd,Robbins,Lloyd.Robbins@example.com,603-494-3648,London, United Kingdom,"['Desktop', 'Iphone']"
+987,Caitlyn,Lawson,Caitlyn.Lawson@example.com,470-723-2187,Paris, France,"['Desktop', 'Iphone']"
+991,Marion,Webster,Marion.Webster@example.com,169-218-9165,Toronto, Canada,"['Desktop', 'Iphone']"
+993,Jayson,Sutton,Jayson.Sutton@example.com,289-775-9088,Montreal, Canada,"['Desktop', 'Iphone']"
+994,Inaaya,Bruce,Inaaya.Bruce@example.com,780-773-8755,London, United Kingdom,"['Android', 'Desktop']"
+995,Raja,Reeves,Raja.Reeves@example.com,990-569-7356,Montreal, Canada,"['Android', 'Iphone']"
+996,Maria,Stephens,Maria.Stephens@example.com,798-578-4631,Toronto, Canada,"['Android', 'Iphone']"
+998,Fatimah,Johns,Fatimah.Johns@example.com,520-433-7411,London, United Kingdom,['Iphone']
