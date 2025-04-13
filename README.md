@@ -8,7 +8,7 @@
 
 # Prerequesites
 
-Hi, to start the project your first need to have install:
+Hi, to start the project your first need to have the following installed:
 
    -  python interpreter
    -  streamlit
@@ -16,13 +16,13 @@ Hi, to start the project your first need to have install:
    -  yaml
    -  pandas
 
-With all dependencies installed, simply run from the venmito-main directory:
+With all dependencies installed, simply run from the project main directory:
 
 # Running the Files Generators (main)
 
     - python -u .\main.py
 
-    This will generate all the csv files with the results
+    This will read the files in data, analize them and finally generate all the csv files with the results, in folder named Results
 
 # Illustrating the data (Reader)
 After generating the CSV files, stay in the same path and run the following:
