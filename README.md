@@ -4,7 +4,7 @@
 
 
 # Solution Approach
-My approach utilized the pandas library, which allowed me to easily read JSON, XML, and CSV files. However, for YAML files, I needed to first install yaml via pip. After safely loading the YAML data, I converted it into a DataFrame for consistency.
+My approach utilized the pandas library, which allowed me to easily read JSON, XML, and CSV files. However, for YAML files, I needed to first install yaml. After safely loading the YAML data, I converted it into a DataFrame for consistency.
 
 The most challenging files to process were XML and YAML. The XML file required additional preprocessing. I used the ElementTree library to properly parse nested elements since pandas struggled with the indexed structure. Similarly, the YAML file needed careful handling to ensure correct formatting before conversion.
 
@@ -25,7 +25,10 @@ With all dependencies installed, simply run from the project main directory:
 # Running the Files Generators (main)
 
     - Run the following command in your terminal
-    - python -u .\main.py
+    windows
+        - python -u .\main.py
+    linux
+        - python3 -u ./main.py
 
     This will read the files in data, analize them and finally generate all the csv files with the results, in folder named Results
 
@@ -33,8 +36,10 @@ With all dependencies installed, simply run from the project main directory:
 After generating the CSV files, stay in the same path and run the following:
 
     - Run the following command in your terminal
-
-    -  streamlit run .\Reader.py
+    windows
+        -  streamlit run .\Reader.py
+    linux
+        -  streamlit run ./Reader.py
     This will start a local streamlit server and generate all the result in the graphs and content  
     in your browser of preference.
 
