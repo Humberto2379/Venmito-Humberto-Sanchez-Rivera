@@ -20,13 +20,16 @@ With all dependencies installed, simply run from the project main directory:
 
 # Running the Files Generators (main)
 
+    - Run the following command in you terminal
     - python -u .\main.py
 
     This will read the files in data, analize them and finally generate all the csv files with the results, in folder named Results
 
 # Illustrating the data (Reader)
 After generating the CSV files, stay in the same path and run the following:
-    
+
+    - Run the following command in you terminal
+
     -  streamlit run .\Reader.py
     This will start a local streamlit server and generate all the result in the graphs and content  
     in your browser of preference.
