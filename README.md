@@ -19,6 +19,7 @@ Hi, to start the project your first need to have the following installed:
    -  xml
    -  yaml
    -  pandas
+   -  ast
 
 With all dependencies installed, simply run from the project main directory:
 
