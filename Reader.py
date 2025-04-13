@@ -19,3 +19,4 @@ st.markdown("<h3 style='text-align: center;'>TRANSFERS TABLE</h3>",unsafe_allow_
 st.dataframe(transferReader)
 st.markdown("<h3 style='text-align: center;'>TRANSACTIONS TABLE</h3>",unsafe_allow_html=True)
 st.dataframe(transactionsReader)
+

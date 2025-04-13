@@ -47,36 +47,24 @@ for i in range(len(ymlFrame)):
 
 #-------------------------------- POPPING NO LONGER USEABLE COLUMNS
 ymlFrame =  ymlFrame.drop(columns=['city','Android','Desktop','Iphone','name'])
-#--------------------------------
+ymlFrame = ymlFrame.rename(columns={'ciudad':'city'})
 
-ymlFrame.columns=['id','email','phone','city','country','devices','first_name','last_name']
 
-#------------------------------------ REINDEXING TABLES
+#------------------------------------ REINDEXING TABLES---------------------------------------------------
 ymlFrame = ymlFrame.reindex(columns=['id','first_name','last_name','email','phone','city','country','devices'])
 jsonData = jsonData.reindex(columns=['id','first_name','last_name','email','phone','city','country','devices'])
 
-#------------------------------------
-ymlFrame = ymlFrame.dropna(how='any') # If there is a column that does not have the data, I eliminated it
+#------------------------------------DROPING ANY ROW THAT HAS EMPTY CELLS
+ymlFrame = ymlFrame.dropna(how='any')
 jsonData = jsonData.dropna(how='any')
-# ymlFrame.to_csv('Results/PeopleYMLA.csv',index=False)# This just show you the people result from yml file
-# jsonData.to_csv('Results/PeopleJSON.CSV',index=False) # This just show you the people result from json file
 
-#----------------------------------------MERGIN PEOPLE BOTH FILES--------------------------------------------------------
+#----------------------------------------MERGIN BOTH PEOPLE FILES--------------------------------------------------------
 #CONCATING BOTH FILES, TO NOT LEAVE ANY PERSON BEHIND
 merginPeople = p.concat([jsonData,ymlFrame],ignore_index=True).drop_duplicates('id')
 # DROPPING DUPLICATES BY ID (it saves the first appeareance)
-merginPeople = merginPeople.dropna(how='any') # drop any row that contains an empty cell
 merginPeople = merginPeople.sort_values('id') # Order by id
 merginPeople.to_csv('Results/People_Result.csv',index=False)
-
 #------------------------------------------------------------------------------------------------
-
-#----------------------------------READING PROMOTIONS FILE-----------------------------------------
-promotionsReader = p.read_csv('data/promotions.csv')
-promotionsReader = promotionsReader.dropna(how='any') # dropping the rows that has any null values
-promotionsReader.to_csv('Results/Promotions.csv',index=False)
-#----------------------------------------------------------------------------------------------------
-
 
 #----------------------------------READING TRANSFERS FILE---------------------------------------------
 transferReader = p.read_csv('data/transfers.csv')
@@ -88,19 +76,17 @@ transferReader.to_csv('Results/Transfers.csv',index=False)
 xmlData = [] # Making an empty list, for later append the data and be more easy to make a dataFrame in pandas
 xmlReader = et.parse('data/transactions.xml') # The document is parsed
 root = xmlReader.getroot() # Get the root of the document, in order to iterate from the begining
-for tr in root.findall('transaction'): # It did not have to specify the findall transaction, because there is just one table, but for the norm
+for tr in root.findall('transaction'):
     id = tr.attrib['id'] # getting the id, which is an attribute
-    items = tr.find('items') # use find,  to get, each item inddividual
-    nwdict = []
-    for i in items.findall('item'): # use findall, to get all the attributes of the single item
+    items = tr.find('items') # Save the 'container' items
+    for i in items.findall('item'): # iterate into every single item inside of items
         item_name = i.find('item') # name of the item
         price = i.find('price') # price of the item
         price_per_item = i.find('price_per_item') #prices per items
         quantity = i.find('quantity') #ammount of items
 
         
-        #appending each item it has the same id for every item of that transaction
-        # in the files I make joins according to the information 
+        #appending each item individual
         xmlData.append({'id':id,
                             'item':item_name.text,
                             'Total_Price':price.text,
@@ -110,4 +96,4 @@ for tr in root.findall('transaction'): # It did not have to specify the findall 
 xmlDataResult = p.DataFrame(xmlData) # making the dataframe
 xmlDataResult = xmlDataResult.dropna(how='any')
 xmlDataResult.to_csv('Results/Transactions.csv',index=False) # turning the frame into a csv
-#-----------------------------------
+#-----------------------------------END

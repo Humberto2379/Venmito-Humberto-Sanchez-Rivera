@@ -1,6 +1,6 @@
-Name: Humberto Sanchez Rivera
-email: humberto.sanchez@upr.edu
-phone: 787-317-2845
+# Name: Humberto Sanchez Rivera
+# email: humberto.sanchez@upr.edu
+# phone: 787-317-2845
 
 # Introduction
 
@@ -46,13 +46,14 @@ In that server, you will see the following pages:
 #                                                   Reader
 This page displays all newly generated CSV files in table format, providing a comprehensive overview of the data in one centralized location.
 #                                                   Devices Per Country
-This visualization highlights the most commonly used devices across different countries, enabling targeted resource allocation.
+This visualization highlights the most commonly used devices across different countries.
 #                                                   LeastAndMostSpendDays
-This analysis identifies the highest and lowest-value transaction dates, revealing when customers spend the most and least. By visualizing these trends, Venmito can strategically time promotions—boosting sales during slower periods.
-#                                                   MoneySpentBYID Top 10
-
+This analysis identifies the highest and lowest-value transaction dates, revealing when customers spend the most and least.
+#                                                   Highest_And_Lowest_Transactions_By_ID
+This page displays the top 10 highest and lowest transactions, helping identify the most and least valuable orders.
 #                                                   RevenuePerItem
-
+This page shows item-level revenue, ranking products from highest to lowest earnings.
 #                                                   Showing Acceptance by promotion
-
+This page tracks how often customers accept or reject promotions, measuring campaign effectiveness.
 #                                                   The total quantity sold for each item
+This page visualizes sales volume per product, highlighting best-sellers and underperformers.
